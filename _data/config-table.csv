@@ -1,16 +1,17 @@
 field,display_name
-local:workIdentifier,Work Identifier
-vra:title,Title
-vra:agent,Artist
-vra:measurements,Size
-vra:subject,Subject
-dc:provenance,Provenance (Work)
-vra:textRef,Bibliographic References
-Vra:relation,Relation
-local:accessionNumber,Accession Number
-vra:agent,Photographer
-vra:technique,Kind of Photograph
-dc:provenance,Provenance (Photograph)
-local:displayTemplate,Display Template
-local:objectLocation,Object Location
-Local:parentid,Parent Identifier
+Objectid,Object ID
+Title,Title
+Artist,Artist
+Size,Size
+subject,Subject
+provenance_work,Provenance (Work)
+Textref,Bibliographic References
+relation,Relation
+accessionNumber,Accession Number
+creator,Photographer
+type,Kind of Photograph
+provenance_photographer,Provenance (Photograph)
+display_template,Display Template
+Object_location,Object Location
+parentid,Parent Identifier
+Workid,Work Indentiifer
