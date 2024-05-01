@@ -1,16 +1,17 @@
 field,display_name,Bnt,Hidden,sort_name
-local:workIdentifier,Work Identifier,,TRUE,
-vra:title,Title,,,TRUE
-vra:agent,Artist,,,TRUE
-vra:measurements,Size,,,
-vra:subject,Subject,TRUE,,TRUE
-dc:provenance,Provenance (Work),,,
-vra:textRef,Bibliographic References,,,
-Vra:relation,Relation,,,
-local:accessionNumber,Accession Number,,,TRUE
-vra:agent,Photographer,,,TRUE
-vra:technique,Kind of Photograph,,,TRUE
-dc:provenance,Provenance (Photograph),,,
-local:displayTemplate,Display Template,,TRUE,
-local:objectLocation,Object Location,,TRUE,
-Local:parentid,Parent Identifier,,TRUE,
+Objectid,Object ID,,,
+Title,Title,,,TRUE
+Artist,Artist,,,TRUE
+Size,Size,,,
+subject,Subject,TRUE,,
+provenance_work,Provenance (Work),,,
+Textref,Bibliographic References,,,
+relation,Relation,,,
+accessionNumber,Accession Number,,,TRUE
+creator,Photographer,,,TRUE
+type,Kind of Photograph,,,TRUE
+provenance_photographer,Provenance (Photograph),,,
+display_template,Display Template,,TRUE,
+Object_location,Object Location,,TRUE,
+parentid,Parent Identifier,,TRUE,
+Workid,Work Indentiifer,,TRUE,
