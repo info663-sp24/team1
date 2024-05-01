@@ -1,16 +1,16 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 local:workIdentifier,Work Identifier,,,DCTERMS.indetifier,Identifier
-vra:title,Title,,,DCTERMS.title,Name
+vra:title,Title,TRUE,,DCTERMS.title,Name
 vra:agent,Artist,TRUE,,DCTERMS.creator,Creator
 vra:measurements,Size,,,DCTERMS.format,Size
-vra:subject,Subject,,,DCTERMS.subject,Keyword
+vra:subject,Subject,TRUE,,DCTERMS.subject,Keyword
 dc:provenance,Provenance (Work),,,DCTERMS.provenance,
 vra:textRef,Bibliographic References,,,DCTERMS.bibliographiccitation,Citation
 Vra:relation,Relation,,,DCTERMS.relation,Exampleofwork
-local:accessionNumber,Accession Number,,,,
-vra:agent,Photographer,,,,
-vra:technique,Kind of Photograph,,,,
+local:accessionNumber,Accession Number,TRUE,,,
+vra:agent,Photographer,TRUE,,,
+vra:technique,Kind of Photograph,TRUE,,,
 dc:provenance,Provenance (Photograph),,,,
 local:displayTemplate,Display Template,,,,
 local:objectLocation,Object Location,,,,
-local:parentid,Parent Identifier,,,,
+Local:parentid,Parent Identifier,,,,
