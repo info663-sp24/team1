@@ -1,14 +1,16 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+local:workIdentifier,Work Identifier,,,DCTERMS.indetifier,Identifier
+vra:title,Title,,,DCTERMS.title,Name
+vra:agent,Artist,,,DCTERMS.creator,Creator
+vra:measurements,Size,,,DCTERMS.format,Size
+vra:subject,Subject,,,DCTERMS.subject,Keyword
+dc:provenance,Provenance (Work),,,DCTERMS.provenance,
+vra:textRef,Bibliographic References,,,DCTERMS.bibliographiccitation,Citation
+Vra:relation,Relation,,,DCTERMS.relation,Exampleofwork
+local:accessionNumber,Accession Number,,,,
+vra:agent,Photographer,,,,
+vra:technique,Kind of Photograph,,,,
+dc:provenance,Provenance (Photograph),,,,
+local:displayTemplate,Display Template,,,,
+local:objectLocation,Object Location,,,,
+Local:parentid,Parent Identifier,,,,
