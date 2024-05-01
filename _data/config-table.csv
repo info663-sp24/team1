@@ -1,17 +1,17 @@
 field,display_name
-Objectid,Object ID
-Title,Title
-Artist,Artist
-Size,Size
+objectid,Object ID
+title,Title
+artist,Artist
+size,Size
 subject,Subject
 provenance_work,Provenance (Work)
-Textref,Bibliographic References
+textref,Bibliographic References
 relation,Relation
 accessionNumber,Accession Number
 creator,Photographer
 type,Kind of Photograph
 provenance_photographer,Provenance (Photograph)
 display_template,Display Template
-Object_location,Object Location
+object_location,Object Location
 parentid,Parent Identifier
-Workid,Work Indentiifer
+workid,Work Indentiifer
