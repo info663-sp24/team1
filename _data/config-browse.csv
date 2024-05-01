@@ -1,6 +1,16 @@
-field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
-identifier,,,true,Identifier
+field,display_name,Bnt,Hidden,sort_name
+local:workIdentifier,Work Identifier,,TRUE,
+vra:title,Title,,,TRUE
+vra:agent,Artist,,,TRUE
+vra:measurements,Size,,,
+vra:subject,Subject,TRUE,,TRUE
+dc:provenance,Provenance (Work),,,
+vra:textRef,Bibliographic References,,,
+Vra:relation,Relation,,,
+local:accessionNumber,Accession Number,,,TRUE
+vra:agent,Photographer,,,TRUE
+vra:technique,Kind of Photograph,,,TRUE
+dc:provenance,Provenance (Photograph),,,
+local:displayTemplate,Display Template,,TRUE,
+local:objectLocation,Object Location,,TRUE,
+Local:parentid,Parent Identifier,,TRUE,
