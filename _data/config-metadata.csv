@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 local:workIdentifier,Work Identifier,,,DCTERMS.indetifier,Identifier
 vra:title,Title,,,DCTERMS.title,Name
-vra:agent,Artist,,,DCTERMS.creator,Creator
+vra:agent,Artist,TRUE,,DCTERMS.creator,Creator
 vra:measurements,Size,,,DCTERMS.format,Size
 vra:subject,Subject,,,DCTERMS.subject,Keyword
 dc:provenance,Provenance (Work),,,DCTERMS.provenance,
