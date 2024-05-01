@@ -1,5 +1,5 @@
 field,display_name,Bnt,Hidden,sort_name
-Objectid,Object ID,,,
+objectid,Object ID,,,
 Title,Title,,,TRUE
 Artist,Artist,,,TRUE
 Size,Size,,,
