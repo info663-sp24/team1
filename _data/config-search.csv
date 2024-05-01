@@ -1,17 +1,17 @@
 field,display_name,Index,Display
-Objectid,Object ID,FALSE,FALSE
-Title,Title,TRUE,TRUE
-Artist,Artist,TRUE,TRUE
-Size,Size,FALSE,TRUE
+objectid,Object ID,FALSE,FALSE
+title,Title,TRUE,TRUE
+artist,Artist,TRUE,TRUE
+size,Size,FALSE,TRUE
 subject,Subject,TRUE,TRUE
 provenance_work,Provenance (Work),TRUE,TRUE
-Textref,Bibliographic References,FALSE,TRUE
+textref,Bibliographic References,FALSE,TRUE
 relation,Relation,FALSE,TRUE
 accessionNumber,Accession Number,FALSE,TRUE
 creator,Photographer,TRUE,TRUE
 type,Kind of Photograph,FALSE,TRUE
 provenance_photographer,Provenance (Photograph),TRUE,TRUE
 display_template,Display Template,FALSE,FALSE
-Object_location,Object Location,FALSE,FALSE
+object_location,Object Location,FALSE,FALSE
 parentid,Parent Identifier,FALSE,FALSE
 Workid,Work Indentiifer,FALSE,FALSE
