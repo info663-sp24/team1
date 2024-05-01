@@ -1,5 +1,16 @@
 field,display_name
-title,Title
-date,Date
-description,Description
-subject,Subjects
+local:workIdentifier,Work Identifier
+vra:title,Title
+vra:agent,Artist
+vra:measurements,Size
+vra:subject,Subject
+dc:provenance,Provenance (Work)
+vra:textRef,Bibliographic References
+Vra:relation,Relation
+local:accessionNumber,Accession Number
+vra:agent,Photographer
+vra:technique,Kind of Photograph
+dc:provenance,Provenance (Photograph)
+local:displayTemplate,Display Template
+local:objectLocation,Object Location
+Local:parentid,Parent Identifier
