@@ -1,16 +1,17 @@
-field,display_name,browse_link,external_link,dc_map,schema_map
-local:workIdentifier,Work Identifier,,,DCTERMS.indetifier,Identifier
-vra:title,Title,TRUE,,DCTERMS.title,Name
-vra:agent,Artist,TRUE,,DCTERMS.creator,Creator
-vra:measurements,Size,,,DCTERMS.format,Size
-vra:subject,Subject,TRUE,,DCTERMS.subject,Keyword
-dc:provenance,Provenance (Work),,,DCTERMS.provenance,
-vra:textRef,Bibliographic References,,,DCTERMS.bibliographiccitation,Citation
-Vra:relation,Relation,,,DCTERMS.relation,Exampleofwork
-local:accessionNumber,Accession Number,TRUE,,,
-vra:agent,Photographer,TRUE,,,
-vra:technique,Kind of Photograph,TRUE,,,
-dc:provenance,Provenance (Photograph),,,,
-local:displayTemplate,Display Template,,,,
-local:objectLocation,Object Location,,,,
-Local:parentid,Parent Identifier,,,,
+field,display_name,browse_link,dc_map ,schema_map
+Objectid,Object ID,,,
+Title,Title,TRUE,DCTERMS.title,Name
+Artist,Artist,TRUE,DCTERMS.creator,Creator
+Size,Size,,DCTERMS.format,Size
+subject,Subject,TRUE,DCTERMS.subject,Keyword
+provenance_work,Provenance (Work),,DCTERMS.provenance,
+Textref,Bibliographic References,,DCTERMS.bibliographiccitation,Citation
+relation,Relation,,DCTERMS.relation,Exampleofwork
+accessionNumber,Accession Number,TRUE,,
+creator,Photographer,TRUE,,
+type,Kind of Photograph,TRUE,,
+provenance_photographer,Provenance (Photograph),,,
+display_template,Display Template,,,
+Object_location,Object Location,,,
+parentid,Parent Identifier,,,
+Workid,Work Indentiifer,,DCTERMS.indetifier,DCTERMS.title
