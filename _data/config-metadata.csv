@@ -1,5 +1,5 @@
 field,display_name,browse_link,dc_map ,schema_map
-Objectid,Object ID,,,
+objectid,Object ID,,,
 Title,Title,TRUE,DCTERMS.title,Name
 Artist,Artist,TRUE,DCTERMS.creator,Creator
 Size,Size,,DCTERMS.format,Size
