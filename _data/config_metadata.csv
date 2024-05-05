@@ -1,0 +1,15 @@
+field,display_name,browse_link,dc_map ,schema_map
+Title,Title,TRUE,DCTERMS.title,Name
+Artist,Artist,TRUE,DCTERMS.creator,Creator
+Size,Size,,DCTERMS.format,Size
+subject,Subject,TRUE,DCTERMS.subject,Keyword
+provenance_work,Provenance (Work),,DCTERMS.provenance,
+Textref,Bibliographic References,,DCTERMS.bibliographiccitation,Citation
+relation,Relation,,DCTERMS.relation,Exampleofwork
+accessionNumber,Accession Number,TRUE,,
+creator,Photographer,TRUE,,
+type,Kind of Photograph,TRUE,,
+provenance_photographer,Provenance (Photograph),,,
+display_template,Display Template,,,
+parentid,Parent Identifier,,,
+Workid,Work Indentiifer,,DCTERMS.indetifier,DCTERMS.title
