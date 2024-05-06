@@ -1,14 +1,14 @@
 field,display_name,Bnt,Hidden,sort_name
 objectid,Object ID,,,
-title,Title,,,TRUE
-artist,Artist,,,TRUE
+title,Title,,,true
+artist,Artist,,,true
 size,Size,,,
 subject,Subject,TRUE,,
 provenance_work,Provenance (Work),,,
 textref,Bibliographic References,,,
 relation,Relation,,,
 accessionNumber,Accession Number,,,TRUE
-creator,Photographer,,,TRUE
+creator,Photographer,,,tRUE
 type,Kind of Photograph,,,TRUE
 provenance_photographer,Provenance (Photograph),,,
 display_template,Display Template,,TRUE,
