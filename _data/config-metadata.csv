@@ -1,17 +1,15 @@
 field,display_name,browse_link,dc_map ,schema_map
-objectid,Object ID,,,
-title,Title,TRUE,DCTERMS.title,Name
-artist,Artist,TRUE,DCTERMS.creator,Creator
-size,Size,,DCTERMS.format,Size
+Title,Title,TRUE,DCTERMS.title,Name
+Artist,Artist,TRUE,DCTERMS.creator,Creator
+Size,Size,,DCTERMS.format,Size
 subject,Subject,TRUE,DCTERMS.subject,Keyword
 provenance_work,Provenance (Work),,DCTERMS.provenance,
-textref,Bibliographic References,,DCTERMS.bibliographiccitation,Citation
+Textref,Bibliographic References,,DCTERMS.bibliographiccitation,Citation
 relation,Relation,,DCTERMS.relation,Exampleofwork
 accessionNumber,Accession Number,TRUE,,
 creator,Photographer,TRUE,,
 type,Kind of Photograph,TRUE,,
 provenance_photographer,Provenance (Photograph),,,
 display_template,Display Template,,,
-object_location,Object Location,,,
 parentid,Parent Identifier,,,
-workid,Work Indentiifer,,DCTERMS.indetifier,DCTERMS.title
+Workid,Work Indentiifer,,DCTERMS.indetifier,DCTERMS.title
