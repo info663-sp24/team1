@@ -1,6 +1,6 @@
 field,display_name,Bnt,Hidden,sort_name
 objectid,Object ID,,,
-title,Title,,,Title
+title,Title,,,
 artist,Artist,,,Artist
 size,Size,,,
 subject,Subject,TRUE,,
