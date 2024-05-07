@@ -10,6 +10,4 @@ accessionNumber,Accession Number,TRUE,,
 creator,Photographer,TRUE,,
 type,Kind of Photograph,TRUE,,
 provenance_photographer,Provenance (Photograph),,,
-display_template,Display Template,,,
-parentid,Parent Identifier,,,
 Workid,Work Indentiifer,,DCTERMS.indetifier,DCTERMS.title
