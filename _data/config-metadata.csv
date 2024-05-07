@@ -6,8 +6,8 @@ subject,Subject,TRUE,DCTERMS.subject,Keyword
 provenance_work,Provenance (Work),,DCTERMS.provenance,
 Textref,Bibliographic References,,DCTERMS.bibliographiccitation,Citation
 relation,Relation,,DCTERMS.relation,Exampleofwork
-accessionNumber,Accession Number,TRUE,,
+accessionNumber,Accession Number,,,
 creator,Photographer,TRUE,,
-type,Kind of Photograph,TRUE,,
+type,Kind of Photograph,,,
 provenance_photographer,Provenance (Photograph),,,
 Workid,Work Indentiifer,,DCTERMS.indetifier,DCTERMS.title
